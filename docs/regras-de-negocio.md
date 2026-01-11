@@ -1,1 +1,4 @@
-
+- Cada peça tem tipo, cor e quantidade
+- Venda reduz estoque
+- Não pode vender estoque negativo
+- Histórico deve ser preservado
